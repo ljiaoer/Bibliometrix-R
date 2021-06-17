@@ -1,0 +1,12 @@
+
+
+install.packages("dplyr","factoextra","FactoMineR","ggplot2","igraph","Matrix","rscopus","SnowballC","stringr"，destdir = "D:/software/R/r_workspace/R _packages")
+
+
+
+install.packages("factoextra","FactoMineR","ggplot2","igraph","Matrix","rscopus","SnowballC","stringr"，destdir = "D:/software/R/r_workspace/R _packages")
+
+
+install.packages("factoextra",destdir = "D:/software/R/r_workspace/R _packages")
+
+install.packages("FactoMineR"，destdir = "D:/software/R/r_workspace/R _packages")
